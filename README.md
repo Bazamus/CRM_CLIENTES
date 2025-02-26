@@ -12,6 +12,7 @@ Sistema de gestión de relaciones con clientes (CRM) desarrollado con React y Ta
 - **Conversaciones**: Sistema de chat para comunicación con clientes
 - **Reportes y Análisis**: Gráficos interactivos para análisis de datos
 - **Perfil de Usuario**: Gestión de información de usuario
+- **Interfaz Intuitiva**: Diseño centrado en la experiencia de usuario
 
 ## Tecnologías Utilizadas
 
