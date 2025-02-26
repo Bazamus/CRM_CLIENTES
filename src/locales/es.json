@@ -1,0 +1,278 @@
+{
+  "header": {
+    "title": "CRM CLIENTES",
+    "menuButton": "Menú móvil",
+    "searchPlaceholder": "Buscar...",
+    "notifications": "Notificaciones",
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "logout": "Cerrar sesión"
+  },
+  "sidebar": {
+    "dashboard": "Inicio",
+    "customers": "Clientes",
+    "conversations": "Conversaciones",
+    "campaigns": "Campañas",
+    "reporting": "Reportes",
+    "settings": "Configuración",
+    "quick_access": "Acceso rápido"
+  },
+  "customersPage": {
+    "title": "Gestión de Clientes",
+    "addCustomer": "Agregar Cliente",
+    "addSuccess": "Cliente agregado exitosamente",
+    "editCustomer": "Editar Cliente",
+    "searchPlaceholder": "Buscar clientes...",
+    "form": {
+      "namePlaceholder": "Nombre del cliente",
+      "emailPlaceholder": "correo@ejemplo.com"
+    },
+    "table": {
+      "name": "Nombre",
+      "email": "Correo",
+      "phone": "Teléfono",
+      "status": "Estado",
+      "spent": "Gastado",
+      "lastContact": "Último Contacto",
+      "actions": "Acciones"
+    },
+    "status": {
+      "active": "Activo",
+      "inactive": "Inactivo"
+    },
+    "filters": {
+      "all": "Todos",
+      "active": "Activos",
+      "inactive": "Inactivos"
+    }
+  },
+  "campaignsPage": {
+    "title": "Campañas de Marketing",
+    "newCampaign": "Nueva Campaña",
+    "editCampaign": "Editar Campaña",
+    "createSuccess": "Campaña creada exitosamente",
+    "updateSuccess": "Campaña actualizada exitosamente",
+    "searchPlaceholder": "Buscar campañas...",
+    "form": {
+      "name": "Nombre de la campaña",
+      "namePlaceholder": "Ej: Campaña de Verano 2024",
+      "type": "Tipo",
+      "status": "Estado",
+      "audience": "Audiencia objetivo",
+      "startDate": "Fecha de inicio",
+      "endDate": "Fecha de fin",
+      "budget": "Presupuesto"
+    },
+    "table": {
+      "campaign": "Campaña",
+      "type": "Tipo",
+      "status": "Estado",
+      "progress": "Progreso",
+      "dates": "Fechas",
+      "budget": "Presupuesto"
+    },
+    "status": {
+      "active": "Activa",
+      "draft": "Borrador",
+      "completed": "Completada",
+      "scheduled": "Programada"
+    },
+    "types": {
+      "email": "Correo electrónico",
+      "social": "Redes sociales"
+    },
+    "audience": {
+      "all": "Todos los clientes",
+      "premium": "Clientes premium",
+      "new": "Clientes nuevos"
+    },
+    "filters": {
+      "allStatus": "Todos los estados",
+      "allTypes": "Todos los tipos"
+    },
+    "metrics": {
+      "emailsSent": "Total Correos Enviados",
+      "conversions": "Total Conversiones",
+      "spent": "Total Gastado",
+      "comparison": "Comparado con el mes anterior",
+      "reach": "Alcance",
+      "engagement": "Interacción",
+      "conversion": "Conversión",
+      "roi": "ROI"
+    }
+  },
+  "conversationsPage": {
+    "title": "Centro de Conversaciones",
+    "newMessage": "Nuevo Mensaje",
+    "searchPlaceholder": "Buscar conversaciones...",
+    "noMessages": "No hay mensajes",
+    "typing": "escribiendo..."
+  },
+  "dashboard": {
+    "title": "Panel de Control",
+    "currentYear": "Año",
+    "lastYear": "año anterior",
+    "stats": {
+      "totalRevenue": "Ingresos totales",
+      "activeClients": "Clientes activos",
+      "newClients": "Nuevos clientes"
+    },
+    "cards": {
+      "revenue": "Resumen de Ingresos",
+      "activity": "Actividad Semanal"
+    },
+    "metrics": {
+      "revenue": "Ingresos",
+      "meetings": "Reuniones",
+      "calls": "Llamadas"
+    },
+    "quickAccess": {
+      "title": "Acceso rápido",
+      "lastSeen": "Última vez"
+    },
+    "recentActivity": {
+      "title": "Actividad reciente",
+      "timeAgo": {
+        "minutes": "Hace {{minutes}} minutos",
+        "hours": "Hace {{hours}} horas",
+        "days": "Hace {{days}} días"
+      }
+    },
+    "tasks": {
+      "title": "Tareas pendientes",
+      "welcome": "Enviar correos electrónicos de bienvenida a 3 nuevos suscriptores",
+      "followUp": "Seguimiento con el cliente sobre la devolución",
+      "update": "Actualizar las descripciones de los productos en el sitio web"
+    }
+  },
+  "reporting": {
+    "title": "Informes",
+    "revenueOverview": "Resumen de Ingresos",
+    "customerMetrics": "Métricas de Clientes",
+    "campaignPerformance": "Rendimiento de Campañas",
+    "salesBreakdown": "Desglose de Ventas",
+    "dateRanges": {
+      "7d": "Últimos 7 días",
+      "30d": "Últimos 30 días",
+      "90d": "Últimos 90 días",
+      "12m": "Últimos 12 meses",
+      "ytd": "Año hasta la fecha"
+    },
+    "metrics": {
+      "revenue": "Ingresos",
+      "expenses": "Gastos",
+      "new": "Nuevos",
+      "returning": "Recurrentes",
+      "inactive": "Inactivos",
+      "email": "Email",
+      "social": "Social",
+      "display": "Display"
+    },
+    "categories": {
+      "electronics": "Electrónica",
+      "homeAndGarden": "Hogar y Jardín",
+      "sports": "Deportes",
+      "clothing": "Ropa",
+      "books": "Libros",
+      "beauty": "Belleza"
+    }
+  },
+  "settings": {
+    "title": "Configuración",
+    "sections": {
+      "general": "General",
+      "security": "Seguridad",
+      "billing": "Facturación",
+      "integrations": "Integraciones"
+    },
+    "theme": {
+      "title": "Tema",
+      "light": "Claro",
+      "dark": "Oscuro",
+      "system": "Sistema"
+    }
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "create": "Crear",
+    "update": "Actualizar",
+    "loading": "Cargando...",
+    "noData": "No hay datos disponibles",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "export": "Exportar",
+    "import": "Importar",
+    "fillRequired": "Por favor, complete todos los campos requeridos",
+    "actions": "Acciones"
+  },
+  "customerDetails": {
+    "totalSpent": "Total gastado",
+    "status": "Estado",
+    "lastOrder": "Último pedido",
+    "recentOrders": "Pedidos recientes",
+    "recentActivity": "Actividad reciente",
+    "orderNumber": "Pedido #{{number}}",
+    "orderStatus": {
+      "completed": "Completado",
+      "pending": "Pendiente",
+      "cancelled": "Cancelado"
+    },
+    "activity": {
+      "viewedProduct": "Vio el producto X",
+      "updatedAddress": "Actualizó la dirección de envío",
+      "contactedSupport": "Contactó con soporte"
+    },
+    "timeAgo": {
+      "hours": "hace {{hours}} horas",
+      "days": "hace {{days}} días"
+    }
+  },
+  "customerForm": {
+    "sections": {
+      "personal": "Información Personal",
+      "professional": "Información Profesional",
+      "address": "Dirección",
+      "additional": "Información Adicional"
+    },
+    "fields": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "company": "Empresa",
+      "position": "Cargo",
+      "address": "Dirección",
+      "city": "Ciudad",
+      "country": "País",
+      "status": "Estado",
+      "type": "Tipo de cliente",
+      "source": "Origen",
+      "notes": "Notas"
+    },
+    "placeholders": {
+      "name": "Nombre completo",
+      "email": "correo@ejemplo.com",
+      "phone": "+34 600 000 000",
+      "company": "Nombre de la empresa",
+      "position": "Cargo en la empresa",
+      "address": "Calle, número, piso...",
+      "city": "Ciudad",
+      "country": "País",
+      "notes": "Añade cualquier nota relevante sobre el cliente..."
+    },
+    "types": {
+      "regular": "Regular",
+      "premium": "Premium",
+      "vip": "VIP"
+    },
+    "sources": {
+      "direct": "Directo",
+      "referral": "Referido",
+      "web": "Sitio web"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "header": {
+    "title": "Bolt CRM",
+    "menuButton": "Mobile menu",
+    "searchPlaceholder": "Search..."
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "customers": "Customers",
+    "conversations": "Conversations",
+    "campaigns": "Campaigns",
+    "reporting": "Reporting"
+  },
+  "customersPage": {
+    "title": "Customer Management",
+    "addCustomer": "Add Customer",
+    "searchPlaceholder": "Search customers...",
+    "statusActive": "Active",
+    "statusInactive": "Inactive"
+  }
+}
